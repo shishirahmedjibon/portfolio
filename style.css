@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px;
+      font-family: "Open Sans", sans-serif;
+      
+      
+}
+body{
+    background-color: #fdf1e8;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: auto;
+    padding: 8px 0px;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+h1{
+    margin: 30px 0px 0px 100px;
+    color: black;
+    font-weight: bolder;
+    font-family: Open Sans;
+     flex-wrap: wrap;
+    
+}
+
+h1 span{
+color: #FD6E0A;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin: 10px 50px 0px 0px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+li a {
+font-family: Open Sans;
+color: black;
+}
+
+.button{
+    background-color: #FD6E0A;
+    color: rgb(251, 251, 249);
+    padding: 15px 12px;
+    margin: 0px 0px 20px 0px;
+    border: none;
+    border-radius: 12px;
+
+}
+
+
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1280px;
+    margin: auto;
+    align-items: center;
+    
+}
+section h2{
+    margin-bottom: 5px;
+}
+
+.p{
+    font-weight: 700px;
+}
+.p1{
+    font: size 0.4rem;
+}
+
+.button1{
+      background-color: #FD6E0A;
+    color: rgb(251, 251, 249);
+    padding: 15px 12px;
+    margin: 10px 0px 20px 0px;
+    border: none;
+    border-radius: 12px;
+    font-weight: 700;
+    cursor: pointer;
+
+
+}
+.button2{
+    background-color: #fbfafa;
+    color: #FD6E0A;
+    font-weight: 700;
+    padding: 15px 12px;
+    margin: 10px 0px 20px 12px;
+    border:2px solid #FD6E0A ;
+    border-radius: 12px;
+    cursor: pointer;
+
+}
+
+
+img{
+    max-width: 100%;
+}
+
+.about{
+    text-align: center;
+    max-width: 1280px;
+    margin: auto;
+    padding: 20px ;
+    
+    
+    
+}
+
+.ab2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    max-width: 1280px;
+    margin: auto;
+    height: 50px;
+    margin-top: 2% ;
+    
+
+}
+.s1{
+    font-weight: bold;
+}
+
+.bac{
+    
+   background-color: #F0E2E2;
+   max-width: 1280px;
+   margin: auto;
+   border-radius: 25px;
+}
+.bac .p3{
+    font-size: 5 px;
+    font-weight: 300;
+}
+
+
+
